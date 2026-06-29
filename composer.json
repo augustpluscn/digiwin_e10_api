@@ -1,0 +1,20 @@
+{
+    "name": "jmcc/digiwin_e10_api",
+    "description": "digiwin e10 api",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jmcc\\Ecology\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "august",
+            "email": "1@augustor.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
