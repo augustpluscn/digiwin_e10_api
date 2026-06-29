@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Api;
+namespace Jmcc\Digiwin;
 
 class E10Client extends BaseClient
 {
